@@ -1,0 +1,31 @@
+.wetherBg{
+  background: url("C:\Users\Parn\Desktop\RealTimeWeatherAppReact-main\public\wbg.jpg");
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading{
+  color:#000000;
+  font-weight: 1000;
+  font-family: 'Rubik Puddles', cursive;
+
+}
+.wetherResultBox{
+  margin: auto;
+  width: 500px;
+  height: 300px;
+}
+.weathorIcon{
+  margin-top: 2rem;
+  width: 100px;
+  height: 100px;
+}
+.weathorCity{
+  font-size: 35px;
+}
+.weathorTemp{
+  font-size:55px;
+  font-weight: 700;
+}

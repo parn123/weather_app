@@ -1,4 +1,4 @@
-locally run-
+Locally run-
 Download the files to your computer.
 open in vs code.
 open terminal.
